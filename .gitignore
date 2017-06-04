@@ -1,0 +1,6 @@
+*.meta
+*.index
+model/
+*.jpg
+*.png
+*.jpeg
